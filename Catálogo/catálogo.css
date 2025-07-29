@@ -1,0 +1,6 @@
+img{width: 200px;}
+.container{display: flex;
+justify-content: space-around;}
+.container2{display: flex;
+justify-content: space-around;}
+div{text-align: center;}
